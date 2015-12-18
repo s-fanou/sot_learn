@@ -6,8 +6,10 @@
  * Time: 15:41
  */
 
+//I added this line here at 16.17 - 18.12.2015 as a test line for git
 
 namespace sot_learn\sot_classes
+
 {
 
     require_once 'person.php';
