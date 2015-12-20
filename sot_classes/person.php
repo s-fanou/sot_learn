@@ -18,6 +18,7 @@ class Person
 
     /**
      * Person constructor.
+     * Another line to check git 20.12.2015 12.39
      */
     function __construct()
     {
