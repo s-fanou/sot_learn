@@ -1,0 +1,3 @@
+This third file was added to the master branch only.
+
+This a second line added to third file.txt
