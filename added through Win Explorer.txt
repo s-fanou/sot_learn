@@ -1,3 +1,5 @@
 This file was added through Win explorer to see if SmartGit tracks it.
 
 This file was unstaged when I added it through win explorer.
+
+This is how the file looks in the master branch.
